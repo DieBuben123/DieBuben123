@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JoDaJa
 - 👀 I’m interested in reporting issues
-- 🌱 I’m currently learning to Code Pthon
+- 🌱 I’m currently learning to Code Python
 - 📫 How to reach me: alpmanjo@ellental-gymnasien.de
 
 <!---
